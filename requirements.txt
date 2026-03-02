@@ -1,4 +1,12 @@
+
 flask
 moviepy==1.0.3
 imageio-ffmpeg
+
+flask
+moviepy==1.0.3
+imageio
+imageio-ffmpeg
+proglog
+
 gunicorn
