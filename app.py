@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, send_file
 import os
-from video_merge import ghep_video
+from video_merge import merge_videos
 
 app = Flask(__name__)
 
